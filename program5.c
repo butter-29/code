@@ -34,3 +34,16 @@ void main() {
             printf("%d ", temp[i]);
     }
 }
+
+
+
+ Input/output:
+ Enterthenvalue:6
+ Enterthegraphdata:
+ 001100
+ 000110
+ 000101
+ 000001
+ 000001
+ 000000
+ Topologicalorderingis:123456
