@@ -36,3 +36,16 @@ void main() {
     res = prim(c, n, s);
     printf("\nCost = %d", res);
 }
+
+
+
+ Input/output:
+ Enternvalue:3
+ Enterthegraphdata:
+ 0101
+ 1006
+ 160
+ Enterthesoucenode:1
+ 1->3sum=1
+ 3->2sum=7
+ Cost=7
