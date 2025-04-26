@@ -30,3 +30,16 @@ int main() {
 
     return 0;
 }
+
+
+ Enterthenvalue:4
+ Enterthegraphdata:
+ 0100
+ 0001
+ 0000
+ 1010
+ Resultantpathmatrix
+ 1111
+ 1111
+ 0000
+ 1111
