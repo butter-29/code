@@ -48,3 +48,23 @@ int main() {
     kruskal(n);
     return 0;
 }
+
+
+
+
+
+
+ Input/Output:
+ Enterthenvalue:5
+ Enterthegraphdata:
+ 010159999
+ 1009991715
+ 15999020999
+ 91720018
+ 99915999180
+ Costofspanningtreeis=49
+ Edgesofspanningtreeare:
+ 1->4
+ 1->2
+ 1->3
+ 2->5
