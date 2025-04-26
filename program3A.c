@@ -33,3 +33,17 @@ void main() {
         printf("\n");
     }
 }
+
+
+ Input/Output:
+ Enter the n value:4
+ Enter the graph data:
+ 0 999 3999
+ 2 0999999
+ 999 7 01
+ 6 999 9990
+ Shortest path matrix
+ 0 1034
+ 2 056
+ 7 701
+ 6 1690
